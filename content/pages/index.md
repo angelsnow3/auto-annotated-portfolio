@@ -67,7 +67,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: 项目
     showFeaturedImage: false
     actions:
       - type: Link
