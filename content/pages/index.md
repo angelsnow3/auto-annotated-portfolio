@@ -41,7 +41,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: 查看所有作品集
         url: /projects
     showDate: false
     showDescription: true
