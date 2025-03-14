@@ -88,7 +88,13 @@ bottomSections:
         flexDirection: row
         textAlign: left
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+*   痛点定位：破解传统系统操作低效难题，设计双轨交互模式支持2000+设备并发监控
+
+*   创新方案：构建「拓扑网络+实时数据流」双视图框架，引入AI异常预警可视化系统
+
+*   建立工业级设计系统：包含500+组件、23种数据图表模板、8套主题色板
+
+*   价值验证：方案落地普利司通等5家全球TOP10轮胎工厂，覆盖5000+企业用户
 
 ## Good habits
 
@@ -96,6 +102,6 @@ Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur
 
 > “Everybody should learn to
 >
->  program a computer, because it teaches you how to think.”
+> program a computer, because it teaches you how to think.”
 
 ![](/images/B%E7%AB%AF@1x.png)
