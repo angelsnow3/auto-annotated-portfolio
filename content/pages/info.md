@@ -21,7 +21,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/网页作品集头像2.jpg
       altText: Hero image
     styles:
       self:
