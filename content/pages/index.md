@@ -30,7 +30,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/网页作品集头像2.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
