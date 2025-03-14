@@ -4,7 +4,7 @@ title: 学习宝教育产品UI迭代与App重构
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/UI.json
-excerpt: UI设计
+excerpt: 项目角色：UI设计
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
