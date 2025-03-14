@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 品牌设计
 colors: colors-a
-date: '2022-01-22'
+date: '2025-03-14'
 client: '- 2022/08/08'
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/h54 拷贝.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
