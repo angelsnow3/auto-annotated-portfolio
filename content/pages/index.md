@@ -41,7 +41,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: 查看所有作品集
         url: /projects
     showDate: false
     showDescription: true
@@ -67,11 +67,11 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: 项目经历
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: 更多项目经历
         url: /blog
     posts:
       - content/pages/blog/post-six.md
