@@ -3,7 +3,7 @@ type: PostLayout
 title: 学习宝教育产品UI迭代与App重构
 colors: colors-a
 date: '2021-06-28'
-author: content/data/team/doris-soto.json
+author: content/data/team/UI.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
