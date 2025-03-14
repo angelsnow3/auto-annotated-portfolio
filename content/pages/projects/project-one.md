@@ -12,7 +12,7 @@ featuredImage:
   altText: 视觉设计封面
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/MONKEYgame.png
   altText: Project image
 ---
 
