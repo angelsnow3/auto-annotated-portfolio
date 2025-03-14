@@ -8,7 +8,7 @@ excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/大屏UWB2.0 3D备份.png
-  altText: Post thumbnail image
+  altText: 效果图
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
