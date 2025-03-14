@@ -67,7 +67,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: 项目
+    subtitle: 项目经历
     showFeaturedImage: false
     actions:
       - type: Link
