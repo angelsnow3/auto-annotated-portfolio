@@ -71,7 +71,7 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: 查看更多项目经历
         url: /blog
     posts:
       - content/pages/blog/post-six.md
