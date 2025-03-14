@@ -15,9 +15,7 @@ sections:
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      这是我的信息——我与你们分享这一切是为了让你们对我过去11年的辛勤工作留下深刻印象。一旦你们留下深刻印象，你们可以继续向下滚动查看有关我的更多详细信息和资历。
     actions:
       - type: Button
         label: Hire me
