@@ -1,11 +1,9 @@
 ---
 type: ProjectLayout
-title: UI / UX
+title: 展会活动设计
 date: '2025-03-07'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 大型展会、沙龙等活动策划及3D效果设计
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
