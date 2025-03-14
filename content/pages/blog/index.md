@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: 项目经历
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
