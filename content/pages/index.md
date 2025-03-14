@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: 主页
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
