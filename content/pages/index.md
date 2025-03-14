@@ -12,8 +12,8 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      我是一名10年资深用户体验设计师，专注于ToB / ToC的产品设计，
+      涉及通信领域、在线教育行业及金融类产品。还有其他一系列令人印象深刻的头衔和流行词。
     subtitle: >-
       这是我的信息——我与你们分享这一切是为了让你们对我过去11年的辛勤工作留下深刻印象。一旦你们留下深刻印象，你们可以继续向下滚动查看有关我的更多详细信息和资历。
     actions:
