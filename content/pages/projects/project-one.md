@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/视觉海报合集.png
-  altText: Project thumbnail image
+  altText: 视觉设计封面
 media:
   type: ImageBlock
   url: /images/bg1.jpg
