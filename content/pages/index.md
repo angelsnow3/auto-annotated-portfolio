@@ -14,8 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hello！欢迎您来了解我的作品
-    subtitle: >-
-      这是我的信息——我与你们分享这一切是为了让你们对我过去11年的辛勤工作留下深刻印象。一旦你们留下深刻印象，你们可以继续向下滚动查看有关我的更多详细信息和资历。
+    subtitle: 分享这一切是为了让你们对我过去10年的辛勤工作留下深刻印象。一旦你们留下深刻印象，您可以继续向下滚动查看有关我的更多详细信息和资历。
     styles:
       self:
         height: auto
