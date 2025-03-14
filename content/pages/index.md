@@ -62,7 +62,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: 作品
+    subtitle: 作品集
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
