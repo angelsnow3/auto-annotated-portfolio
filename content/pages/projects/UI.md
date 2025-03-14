@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: UI / UX
+title: 展会活动设计
 date: '2025-03-07'
 client: Awesome client
 description: >-
