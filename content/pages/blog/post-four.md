@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "Sharing my wisdom with the world \U0001F30E"
+title: 硬件融合创新 硬件外观效果设计
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
