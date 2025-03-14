@@ -211,7 +211,7 @@ sections:
     subtitle: '联系方式:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [angelsnow3.@163.com](angelsnow3@163.com)
   - type: DividerSection
     styles:
       self:
