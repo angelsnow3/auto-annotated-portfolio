@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 欢迎来到小站！
+    title: 欢迎踏入我的创意宇宙，每一个作品都是宇宙中的独特星球，期待与你一同探索。
     subtitle: 分享这一切是为了让你们对我过去10年的辛勤工作留下深刻印象。一旦你们留下深刻印象，您可以继续向下滚动查看有关我的更多详细信息和资历。
     styles:
       self:
