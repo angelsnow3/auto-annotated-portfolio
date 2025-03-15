@@ -64,7 +64,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "联系方式",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
             },
