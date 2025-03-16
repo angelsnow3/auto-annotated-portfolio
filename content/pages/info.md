@@ -307,6 +307,9 @@ sections:
       - type: Label
         label: PC
       - type: Label
+        label: 大屏
+        url: ''
+      - type: Label
         label: iOS
       - type: Label
         label: Android
@@ -321,9 +324,6 @@ sections:
         label: Pad
       - type: Label
         label: 工控机
-      - type: Label
-        label: 大屏
-        url: ''
       - type: Label
         label: CRM
         url: ''
