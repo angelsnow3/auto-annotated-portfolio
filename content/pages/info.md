@@ -300,7 +300,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: '平台:'
+    subtitle: '设计端平台:'
     items:
       - type: Label
         label: Web 1，2，3
