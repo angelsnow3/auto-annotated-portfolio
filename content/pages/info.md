@@ -246,7 +246,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: UED设计
+            label: 全链路体验设计师
             url: 'https://www.linkedin.com/'
         styles:
           self:
