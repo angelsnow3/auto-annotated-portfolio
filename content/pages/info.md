@@ -360,26 +360,23 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: '教育:'
-        text: |-
-          **Current**
+        text: |+
+          **内蒙古师范大学  国际现代设计艺术学院 （2010-2014）**
 
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
+          *   艺术设计（视觉传达设计）
 
           **2011**
 
-          * flipping burgers
+          *   《中国大学生广告学院奖》平面类入围奖
+
+          **2012**
+
+          *   《 2014 南京青奥会文化体育图标设计》三等奖
+
+          **2013**
+
+          *   2013《中国大学生广告学院奖》策划案金奖
+
         styles:
           self:
             textAlign: left
