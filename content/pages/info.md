@@ -48,7 +48,7 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    title: 邱雪 90
+    title: 邱雪 Celia
   - type: DividerSection
     styles:
       self:
