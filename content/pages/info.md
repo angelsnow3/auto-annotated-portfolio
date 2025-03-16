@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 万向新元
-        subtitle: ''
+        subtitle: 设计负责人
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
