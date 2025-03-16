@@ -303,7 +303,7 @@ sections:
     subtitle: '设计端平台:'
     items:
       - type: Label
-        label: Web 1，2，3
+        label: Web3
       - type: Label
         label: PC
       - type: Label
