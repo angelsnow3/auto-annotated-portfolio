@@ -381,7 +381,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: '专利:'
         text: |-
           **2015-2018**
 
