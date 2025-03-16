@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      #
+      ######
       嗨，我是一名资深用户体验设计师。我出生并成长于这个世界，这也是我的基地。我现在是一名自由职业者，曾是这个、那个、超级大牌。当我不编码、写作或创作时，我会吃麦片。我有一只狗，看看她[@mygod](https://www.stackbit.com/)。
 
     media:
