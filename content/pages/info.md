@@ -324,6 +324,9 @@ sections:
       - type: Label
         label: 大屏
         url: ''
+      - type: Label
+        label: CRM
+        url: ''
   - type: DividerSection
     styles:
       self:
