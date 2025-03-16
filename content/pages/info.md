@@ -270,7 +270,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
+            label: 品牌设计负责人
             url: 'https://www.instagram.com/'
         styles:
           self:
