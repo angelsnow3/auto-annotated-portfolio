@@ -121,7 +121,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 北京东方皆冠科技有限公司
-        subtitle: ''
+        subtitle: 高级UI设计师      2014.08-2020.10
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
