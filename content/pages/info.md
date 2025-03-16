@@ -238,7 +238,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: UX设计
+            label: UX设计师
             url: 'https://twitter.com/'
         styles:
           self:
