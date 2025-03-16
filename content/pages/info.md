@@ -52,7 +52,7 @@ sections:
     title: 工作经历
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: 万向新元
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
