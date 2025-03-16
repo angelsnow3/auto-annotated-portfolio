@@ -175,7 +175,7 @@ sections:
         textAlign: left
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: '我曾共事公司:'
+    subtitle: '核心技能:'
     images:
       - type: ImageBlock
         url: /images/logo1.svg
