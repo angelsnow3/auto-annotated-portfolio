@@ -35,6 +35,16 @@ sections:
         textAlign: left
     type: HeroSection
     subtitle: ''
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: DividerSection
     styles:
       self:
