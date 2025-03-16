@@ -305,7 +305,7 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: React
+        label: ToB / ToC
       - type: Label
         label: Microsoft Office
       - type: Label
