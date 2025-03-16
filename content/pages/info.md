@@ -246,7 +246,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: UED设计
             url: 'https://www.linkedin.com/'
         styles:
           self:
