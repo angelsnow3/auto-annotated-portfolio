@@ -319,7 +319,7 @@ sections:
       - type: Label
         label: 工控机
       - type: Label
-        label: Label title
+        label: 大屏
         url: ''
   - type: DividerSection
     styles:
