@@ -315,7 +315,7 @@ sections:
       - type: Label
         label: 小程序
       - type: Label
-        label: C++
+        label: Pad
       - type: Label
         label: Swift
   - type: DividerSection
