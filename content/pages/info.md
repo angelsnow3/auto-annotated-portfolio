@@ -254,7 +254,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: 设计负责人
             url: 'https://codepen.io/'
         styles:
           self:
