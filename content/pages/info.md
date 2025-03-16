@@ -300,7 +300,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: '核心技能:'
+    subtitle: '平台:'
     items:
       - type: Label
         label: Web 1，2，3
