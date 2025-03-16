@@ -382,18 +382,19 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: '荣誉:'
-        text: |-
+        text: |+
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          *   宣誓时十三号
 
           **2014**
 
-          * react certificate somewhere
+          *   react certificate somewhere
 
           **2011**
 
-          * my highschool
+          *   my highschool
+
         styles:
           self:
             textAlign: left
