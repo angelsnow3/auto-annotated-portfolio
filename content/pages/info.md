@@ -303,7 +303,7 @@ sections:
     subtitle: '核心技能:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Web3
       - type: Label
         label: ToB / ToC
       - type: Label
