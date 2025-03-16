@@ -300,7 +300,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: '核心技能:'
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
