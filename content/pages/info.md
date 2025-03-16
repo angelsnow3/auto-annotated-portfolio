@@ -224,13 +224,13 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
+    subtitle: '简历专区:'
     colors: colors-f
     items:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: UI界面设计师
             url: 'https://github.com/'
         styles:
           self:
@@ -238,7 +238,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: UX交互设计师
             url: 'https://twitter.com/'
         styles:
           self:
@@ -246,7 +246,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: 全链路体验设计师
             url: 'https://www.linkedin.com/'
         styles:
           self:
@@ -254,15 +254,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
+            label: 视觉设计师
             url: 'https://discord.com/'
         styles:
           self:
@@ -270,7 +262,15 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
+            label: 设计负责人
+            url: 'https://codepen.io/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: 品牌设计负责人
             url: 'https://www.instagram.com/'
         styles:
           self:
@@ -359,44 +359,42 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
+        subtitle: '教育经历:'
+        text: |+
+          **内蒙古师范大学  国际现代设计艺术学院 （2010-2014）**
 
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
+          *   艺术设计（视觉传达设计）
 
           **2011**
 
-          * flipping burgers
+          *   《中国大学生广告学院奖》平面类入围奖
+
+          **2012**
+
+          *   《 2014 南京青奥会文化体育图标设计》三等奖
+
+          **2013**
+
+          *   2013《中国大学生广告学院奖》策划案金奖
+
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
+        subtitle: '荣誉:'
+        text: |+
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          *   宣誓时十三号
 
           **2014**
 
-          * react certificate somewhere
+          *   react certificate somewhere
 
           **2011**
 
-          * my highschool
+          *   my highschool
+
         styles:
           self:
             textAlign: left
