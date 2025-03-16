@@ -262,7 +262,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 品牌设计师
+            label: 视觉设计师
             url: 'https://discord.com/'
         styles:
           self:
