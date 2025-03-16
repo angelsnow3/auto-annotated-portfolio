@@ -359,7 +359,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: '教育:'
+        subtitle: '教育经历:'
         text: |+
           **内蒙古师范大学  国际现代设计艺术学院 （2010-2014）**
 
