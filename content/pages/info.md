@@ -313,7 +313,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: 小程序
       - type: Label
         label: C++
       - type: Label
