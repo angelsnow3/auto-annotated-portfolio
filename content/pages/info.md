@@ -381,7 +381,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: '专利:'
+        subtitle: '荣誉:'
         text: |-
           **2015-2018**
 
