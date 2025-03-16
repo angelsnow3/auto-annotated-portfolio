@@ -48,6 +48,109 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
+  - type: FeaturedItemsSection
+    title: Value propositions
+    items:
+      - type: FeaturedItem
+        title: I'm Fast
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: I'm Smart
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: I'm Focused
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: MediaGallerySection
     colors: colors-f
     subtitle: '我曾共事公司:'
@@ -193,109 +296,6 @@ sections:
         label: C++
       - type: Label
         label: Swift
-  - type: FeaturedItemsSection
-    title: Value propositions
-    items:
-      - type: FeaturedItem
-        title: I'm Fast
-        subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: I'm Smart
-        subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: I'm Focused
-        subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-    actions: []
-    colors: colors-f
-    columns: 1
-    spacingX: 16
-    spacingY: 16
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: DividerSection
     styles:
       self:
