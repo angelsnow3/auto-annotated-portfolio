@@ -318,6 +318,9 @@ sections:
         label: Pad
       - type: Label
         label: 工控机
+      - type: Label
+        label: Label title
+        url: ''
   - type: DividerSection
     styles:
       self:
