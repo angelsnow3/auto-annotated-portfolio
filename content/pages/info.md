@@ -305,7 +305,7 @@ sections:
       - type: Label
         label: Web 1，2，3
       - type: Label
-        label: ToB / ToC
+        label: iOS
       - type: Label
         label: PC
       - type: Label
