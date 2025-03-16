@@ -309,6 +309,9 @@ sections:
       - type: Label
         label: PC
       - type: Label
+        label: Android
+        url: ''
+      - type: Label
         label: H5
       - type: Label
         label: Netlify
@@ -320,9 +323,6 @@ sections:
         label: 工控机
       - type: Label
         label: 大屏
-        url: ''
-      - type: Label
-        label: Android
         url: ''
   - type: DividerSection
     styles:
