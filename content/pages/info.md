@@ -114,16 +114,7 @@ sections:
 
           *   硬件设计创新：主导BBU硬件设备设计，获外观专利，在MWC世界通信大会展出
 
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
