@@ -37,7 +37,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-    subtitle: ''
+    subtitle: 艺术设计（视觉传达）
     actions:
       - type: Button
         label: 下载简历
