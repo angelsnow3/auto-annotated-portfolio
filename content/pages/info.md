@@ -309,7 +309,7 @@ sections:
       - type: Label
         label: PC
       - type: Label
-        label: Next.js
+        label: H5
       - type: Label
         label: Netlify
       - type: Label
