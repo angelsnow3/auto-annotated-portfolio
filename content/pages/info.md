@@ -307,7 +307,7 @@ sections:
       - type: Label
         label: ToB / ToC
       - type: Label
-        label: Microsoft Office
+        label: PC
       - type: Label
         label: Next.js
       - type: Label
