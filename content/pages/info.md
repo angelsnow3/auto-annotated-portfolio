@@ -254,16 +254,16 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 设计负责人
-            url: 'https://codepen.io/'
+            label: 视觉设计师
+            url: 'https://discord.com/'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 视觉设计师
-            url: 'https://discord.com/'
+            label: 设计负责人
+            url: 'https://codepen.io/'
         styles:
           self:
             textAlign: left
