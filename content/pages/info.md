@@ -37,7 +37,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Learn more
+        label: 下载简历
         altText: ''
         url: /
         showIcon: false
