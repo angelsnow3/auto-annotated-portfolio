@@ -58,19 +58,19 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "简历",
                 "url": "/info",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "联系方式",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "项目经历",
                 "url": "/blog",
                 "altText": ""
             },
