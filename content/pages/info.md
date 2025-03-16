@@ -305,9 +305,9 @@ sections:
       - type: Label
         label: Web 1，2，3
       - type: Label
-        label: iOS
-      - type: Label
         label: PC
+      - type: Label
+        label: iOS
       - type: Label
         label: Android
         url: ''
