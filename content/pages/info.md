@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: 简历
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
