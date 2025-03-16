@@ -224,7 +224,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
+    subtitle: '简历专区:'
     colors: colors-f
     items:
       - type: FeaturedItem
