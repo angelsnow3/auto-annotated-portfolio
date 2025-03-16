@@ -317,7 +317,7 @@ sections:
       - type: Label
         label: Pad
       - type: Label
-        label: Swift
+        label: 工控机
   - type: DividerSection
     styles:
       self:
