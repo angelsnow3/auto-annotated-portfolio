@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: 作品集
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
