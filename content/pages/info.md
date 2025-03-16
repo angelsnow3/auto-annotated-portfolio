@@ -49,7 +49,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: 工作经历
     items:
       - type: FeaturedItem
         title: I'm Fast
