@@ -230,7 +230,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: UI设计师
+            label: UI界面设计师
             url: 'https://github.com/'
         styles:
           self:
