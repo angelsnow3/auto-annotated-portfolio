@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 界面设计合集
+title: 界面设计作品集
 colors: colors-a
 date: '2025-03-17'
 client: ''
