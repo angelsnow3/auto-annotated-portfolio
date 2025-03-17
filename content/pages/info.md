@@ -48,7 +48,7 @@ sections:
     subtitle: 艺术设计（视觉传达）
     actions:
       - type: Button
-        label: 下载简历
+        label: 下载PDF简历
         altText: ''
         url: /
         showIcon: false
