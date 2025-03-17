@@ -284,9 +284,9 @@ sections:
     subtitle: '设计端平台:'
     items:
       - type: Label
-        label: Web3
-      - type: Label
         label: App
+      - type: Label
+        label: Web3
       - type: Label
         label: PC
       - type: Label
