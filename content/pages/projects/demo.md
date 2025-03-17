@@ -3,9 +3,7 @@ type: ProjectLayout
 title: B端
 date: '2025-03-13'
 client: 金融/教育类App、租车小程序、PC客户端、交易类Web3、博物馆类App
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 金融/教育类App、租车小程序、PC客户端、交易类Web3、博物馆类App
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
