@@ -57,6 +57,16 @@ bottomSections:
           - pl-4
           - pr-4
         textAlign: center
+media:
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 B端 C端 APP/Saas/数据可视化大屏/PC/web3
 
