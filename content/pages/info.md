@@ -13,13 +13,18 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      嗨，我是一名11年互联网行业资深用户体验设计师。专注于ToB / ToC的产品设计，
-      涉及通信领域、在线教育行业及金融类产品。UI项目从0到1项目经验7年+，累计大型项目30+，负责过用户量超千万级产品的设计；擅长复杂系统的界面设计、数据可视化、工具用户体验优化。这是我的基地，曾是这个、那个、超级大牌。当我不设计创作时，我会去逛博物馆和旅行。
+    text: >
+      嗨，大家好！在互联网行业深耕的这 11 年，我专注于用户体验设计领域。无论是 ToB 还是 ToC
+      产品，都在我的设计范畴内，涵盖通信、在线教育以及金融类产品。我有幸参与了 30 多个从 0 到 1 的大型项目，主导设计过用户量超千万级别的产品。
 
 
-      设计工作可内容涵盖了用户研究、UI、UX、品牌设计、业务相关视觉设计工作，大型展会、IP周边和线下物料等多个设计领域。
 
+      在专业能力上，复杂系统的界面设计、数据可视化呈现，以及工具用户体验的优化，都是我的专长。设计工作广泛覆盖用户研究、UI、UX、品牌设计、视觉设计、产品外观效果设计，还包括大型展会、IP
+      周边以及线下活动等多个设计领域。
+
+
+
+      这里便是我的线上 “主场”。当暂别设计工作时，我喜欢走进博物馆，沉浸于历史文化的海洋，或者踏上旅途，去领略不同的风土人情 。
     media:
       type: ImageBlock
       url: /images/网页作品集头像2.jpg
@@ -43,7 +48,7 @@ sections:
     subtitle: 艺术设计（视觉传达）
     actions:
       - type: Button
-        label: 下载简历
+        label: PDF简历 下载
         altText: ''
         url: /
         showIcon: false
@@ -162,25 +167,17 @@ sections:
     subtitle: '核心技能:'
     images:
       - type: ImageBlock
-        url: /images/组 13.png
+        url: /images/组 14.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/组 15.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/组 16.png
         altText: Logo three
         caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
