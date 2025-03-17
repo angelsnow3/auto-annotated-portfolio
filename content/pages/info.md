@@ -236,7 +236,8 @@ sections:
         actions:
           - type: Link
             label: 视觉设计师
-            url: 'https://discord.com/'
+            url: >-
+              https://github.com/angelsnow3/pdf/blob/main/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_00.png
         styles:
           self:
             textAlign: left
