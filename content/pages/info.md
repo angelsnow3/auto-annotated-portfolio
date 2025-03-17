@@ -284,6 +284,8 @@ sections:
     subtitle: '设计端平台:'
     items:
       - type: Label
+        label: App
+      - type: Label
         label: Web3
       - type: Label
         label: PC
@@ -291,23 +293,21 @@ sections:
         label: 大屏
         url: ''
       - type: Label
-        label: iOS
-      - type: Label
-        label: Android
-        url: ''
-      - type: Label
-        label: H5
-      - type: Label
         label: Saas
       - type: Label
         label: 小程序
       - type: Label
-        label: Pad
-      - type: Label
-        label: 工控机
+        label: H5
       - type: Label
         label: CRM
         url: ''
+      - type: Label
+        label: HUD
+        url: ''
+      - type: Label
+        label: 工控机
+      - type: Label
+        label: Pad
   - type: DividerSection
     styles:
       self:
