@@ -1,0 +1,22 @@
+---
+type: ProjectLayout
+title: 扩展
+date: '2025-03-05'
+client: 插画、3D建模、视频
+description: 插画、3D建模、视频
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  altText: Project thumbnail image
+  caption: ''
+  elementId: ''
+addTitleSuffix: true
+colors: colors-a
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
+---
