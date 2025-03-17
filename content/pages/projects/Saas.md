@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Web3
+title: Online
 date: '2025-03-12'
 client: PC端/交易所web3/浏览器/H5
 description: >-
