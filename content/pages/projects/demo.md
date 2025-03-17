@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: B端
 date: '2025-03-02'
 client: Awesome client
 description: >-
