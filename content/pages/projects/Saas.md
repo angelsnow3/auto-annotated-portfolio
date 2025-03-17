@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Online
 date: '2025-03-12'
 client: PC端/交易所web3/浏览器/H5
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: PC端/交易所web3/浏览器/H5
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
