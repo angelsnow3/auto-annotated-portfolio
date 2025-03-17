@@ -13,9 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 欢迎踏入我的创意宇宙，每一个作品都是宇宙中的独特星球，期待与你一同探索。
+    title: 欢迎踏入我的创意宇宙，犹如开启星际穿越，能看到我职业生涯闪耀瞬间。
     subtitle: >-
-      这个作品集汇聚了我职业生涯的高光时刻，期待与同行交流，为潜在伙伴展示实力，感谢您的关注
+      这个作品集也是我专业实力的凝练，期待与同行交流，为潜在伙伴展示实力，感谢您的关注
       。一旦你们留下深刻印象，您可以继续向下滚动查看有关我的更多详细信息和资历。
     styles:
       self:
@@ -49,8 +49,8 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/project-three.md
     styles:
       self:
         height: auto
@@ -148,40 +148,6 @@ sections:
           - pb-24
           - pr-4
           - pl-4
-        flexDirection: row
-        textAlign: left
-  - type: HeroSection
-    title: 我是一名10年资深用户体验设计师，专注于ToB / ToC的产品设计， 涉及通信领域、在线教育行业及金融类产品。
-    subtitle: >-
-      这是我的信息——我与你们分享这一切是为了让你们对我过去11年的辛勤工作留下深刻印象。一旦你们留下深刻印象，你们可以继续向下滚动查看有关我的更多详细信息和资历。
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/网页作品集头像2.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
         flexDirection: row
         textAlign: left
 ---
