@@ -293,7 +293,7 @@ sections:
       - type: Label
         label: App
       - type: Label
-        label: HUD
+        label: Hud
         url: ''
       - type: Label
         label: H5
