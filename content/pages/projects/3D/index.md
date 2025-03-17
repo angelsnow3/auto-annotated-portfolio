@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 3D / 动效
 date: '2025-03-10'
-client: Awesome client
+client: 大展3D效果、产品外观设计效果、展厅3D效果设计、视觉设计元素、动效
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
