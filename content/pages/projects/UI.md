@@ -6,7 +6,7 @@ client: Awesome client
 description: 大型展会、沙龙等活动策划及3D效果设计
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/封面-展会.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''

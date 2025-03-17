@@ -1,12 +1,12 @@
 ---
 type: ProjectLayout
 title: 扩展
-date: '2025-03-05'
+date: '2025-03-03'
 client: 插画、3D建模、视频
 description: 插画、3D建模、视频
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/封面-扩展.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''

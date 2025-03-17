@@ -1,14 +1,12 @@
 ---
 type: ProjectLayout
 title: C端 UI/UX
-date: '2025-03-05'
+date: '2025-03-14'
 client: 金融/教育类App、租车小程序、PC客户端、交易类Web3、博物馆类App
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 金融/教育类App、租车小程序、PC客户端、交易类Web3、博物馆类App
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/封面-C端.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''

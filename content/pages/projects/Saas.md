@@ -6,7 +6,7 @@ client: PC端/交易所web3/浏览器/H5
 description: PC端/交易所web3/浏览器/H5
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/封面-Web.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
