@@ -167,7 +167,7 @@ sections:
     subtitle: '核心技能:'
     images:
       - type: ImageBlock
-        url: /images/组 13.png
+        url: /images/组 14.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
