@@ -57,12 +57,6 @@ bottomSections:
           - pl-4
           - pr-4
         textAlign: center
-media:
-  type: ImageBlock
-  url: /images/safecat推海报2.gif
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 ---
 B端 C端 APP/Saas/数据可视化大屏/PC/web3
 
