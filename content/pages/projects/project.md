@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ToC｜金融/教育类App、租车小程序、PC客户端、交易类Web3
 date: '2025-03-05'
-client: Awesome client
+client: ToC
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
