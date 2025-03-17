@@ -3,9 +3,7 @@ type: ProjectLayout
 title: 扩展
 date: '2025-03-05'
 client: 插画、3D建模、视频
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 插画、3D建模、视频
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
