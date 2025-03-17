@@ -6,7 +6,7 @@ client: 插画、3D建模、视频
 description: 插画、3D建模、视频
 featuredImage:
   type: ImageBlock
-  url: /images/封面-插画.png
+  url: /images/封面-扩展.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
