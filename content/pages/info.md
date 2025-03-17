@@ -286,12 +286,12 @@ sections:
       - type: Label
         label: Web3
       - type: Label
+        label: App
+      - type: Label
         label: PC
       - type: Label
         label: 大屏
         url: ''
-      - type: Label
-        label: App
       - type: Label
         label: HUD
         url: ''
