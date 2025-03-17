@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Web3
-date: '2025-03-07'
+date: '2025-03-12'
 client: Awesome client
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
