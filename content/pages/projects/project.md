@@ -6,7 +6,7 @@ client: 金融/教育类App、租车小程序、PC客户端、交易类Web3、�
 description: 金融/教育类App、租车小程序、PC客户端、交易类Web3、博物馆类App
 featuredImage:
   type: ImageBlock
-  url: /images/封面-C端.png
+  url: /images/封面-C端.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
