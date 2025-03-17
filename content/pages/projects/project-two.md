@@ -11,10 +11,6 @@ featuredImage:
   type: ImageBlock
   url: /images/web1.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
 metaTags:
   - type: MetaTag
     property: 'og:title'
