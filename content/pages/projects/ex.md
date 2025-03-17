@@ -6,7 +6,7 @@ client: 插画、3D建模、视频
 description: 插画、3D建模、视频
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/封面-插画.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
