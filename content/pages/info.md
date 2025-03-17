@@ -295,12 +295,12 @@ sections:
       - type: Label
         label: Saas
       - type: Label
+        label: 小程序
+      - type: Label
         label: H5
       - type: Label
         label: HUD
         url: ''
-      - type: Label
-        label: 小程序
       - type: Label
         label: Pad
       - type: Label
