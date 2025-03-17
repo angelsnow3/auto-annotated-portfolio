@@ -25,7 +25,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "下载专区",
                 "altText": "",
                 "url": "/download",
                 "showIcon": false,
