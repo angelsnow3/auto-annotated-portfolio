@@ -60,4 +60,6 @@ bottomSections:
 ---
 B端 C端 APP/Saas/数据可视化大屏/PC/web3
 
-<https://github.com/angelsnow3/pdf/blob/main/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86-compressed.pdf>
+
+
+[进入pdf预览下载页面](https://github.com/angelsnow3/pdf/blob/main/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86-compressed.pdf)
