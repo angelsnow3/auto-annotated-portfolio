@@ -291,7 +291,7 @@ sections:
         label: 大屏
         url: ''
       - type: Label
-        label: iOS
+        label: App
       - type: Label
         label: Android
         url: ''
