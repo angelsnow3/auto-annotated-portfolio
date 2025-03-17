@@ -6,7 +6,7 @@ client: 大展3D效果、产品外观设计效果、展厅3D效果设计、视�
 description: 大展3D效果、产品外观设计效果、展厅3D效果设计、视觉设计元素、动效
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/封面-3D动效.gif
   altText: Project thumbnail image
   caption: ''
   elementId: ''
