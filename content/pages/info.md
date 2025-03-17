@@ -299,15 +299,15 @@ sections:
       - type: Label
         label: H5
       - type: Label
+        label: CRM
+        url: ''
+      - type: Label
         label: HUD
         url: ''
       - type: Label
         label: Pad
       - type: Label
         label: 工控机
-      - type: Label
-        label: CRM
-        url: ''
   - type: DividerSection
     styles:
       self:
