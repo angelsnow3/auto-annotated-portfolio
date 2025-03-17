@@ -9,7 +9,7 @@ description: >-
   ToC的产品设计，擅长复杂系统的界面设计、数据可视化、工具用户体验优化。以往设计工作可内容涵盖了用户研究、UI、UX、UE。作品包含PC端，手机端，小程序，H5，Web3等，熟悉iOS，安卓系统 
 featuredImage:
   type: ImageBlock
-  url: /images/web1.png
+  url: /images/界面设计封面.png
   altText: Project thumbnail image
 metaTags:
   - type: MetaTag
