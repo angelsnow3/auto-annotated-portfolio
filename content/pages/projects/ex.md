@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 休闲时间
 date: '2025-03-05'
-client: Awesome client
+client: 插画、3D建模、视频
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
