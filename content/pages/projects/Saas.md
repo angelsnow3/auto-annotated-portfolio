@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Web3
 date: '2025-03-12'
-client: Awesome client
+client: PC端/交易所web3/浏览器/H5
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
