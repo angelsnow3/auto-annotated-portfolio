@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hello！欢迎踏入我的创意世界
-    subtitle: 这里能看到我职业生涯闪耀瞬间，也是我专业实力的凝练，您可以继续向下滚动查看有关我的更多详细信息和资历。
+    subtitle: >-
+      这里能看到我职业生涯闪耀瞬间，也是我专业实力的凝练，期待与同行交流，为潜在伙伴展示实力，感谢您的关注
+      。一旦你们留下深刻印象，您可以继续向下滚动查看有关我的更多详细信息和资历。
     styles:
       self:
         height: auto
