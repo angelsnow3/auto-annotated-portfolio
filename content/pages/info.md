@@ -160,7 +160,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/组 16.png
+        url: /images/组-16.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
