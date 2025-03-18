@@ -395,7 +395,7 @@ sections:
         - name: 您的名字
           label: 您的公司
           hideLabel: true
-          placeholder: First Name
+          placeholder: 您的名字
           isRequired: true
           width: 1/2
           type: TextFormControl
