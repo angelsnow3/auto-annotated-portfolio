@@ -1,20 +1,15 @@
 ---
 type: PostLayout
-title: 学习宝教育产品UI迭代与App重构
+title: 学习宝教育产品UI迭代与App重构（2014-2017）
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/UI.json
-excerpt: 项目角色：UI设计
+excerpt: >-
+  体验革新：建立行业首个「一对一情感化学习路径系统」（成就徽章+直播课）；设计系统：学生/教师多端设计，支撑5大产品线快速迭代；商业转化：主导5个大版本UI升级，推动付费课程点击转化率提升38%；品牌升级：重塑IP形象"学宝家族"，带动周边商品销售，学生喜爱粘度提升30%。
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/学习宝8.png
   altText: Post thumbnail image
-media:
-  url: /images/post-2.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
-  type: ImageBlock
 bottomSections:
   - elementId: ''
     type: RecentPostsSection

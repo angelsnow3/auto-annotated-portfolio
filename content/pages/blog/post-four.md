@@ -1,13 +1,14 @@
 ---
 type: PostLayout
-title: 硬件融合创新 硬件外观效果设计
+title: 硬件融合创新 硬件外观效果设计（2021-2024）
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  跨界融合：主导BBU设备「散热结构+交互界面」一体化设计；工艺突破：采用纳米喷涂工艺实现设备外壳耐腐蚀等级IP65；商业成果：获外观专利（202230751161X），在2022巴塞罗那MWC世界通信大会参展亮相。
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/截屏2025-03-18 22.09.42.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''

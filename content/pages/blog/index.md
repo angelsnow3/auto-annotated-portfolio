@@ -12,7 +12,7 @@ backgroundImage:
 postFeed:
   type: PostFeedSection
   colors: colors-f
-  showDate: true
+  showDate: false
   showAuthor: false
   showExcerpt: true
   showFeaturedImage: true
