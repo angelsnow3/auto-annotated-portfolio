@@ -121,7 +121,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: 地址
           isRequired: true
           width: 1/2
           type: TextFormControl
