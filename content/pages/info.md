@@ -149,7 +149,7 @@ sections:
         textAlign: left
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: '核心技能:：Figma｜Sketch｜PS｜AI｜AE｜A'
+    subtitle: '核心技能:：Figma｜Sketch｜PS｜AI｜AE｜ID｜Blender｜C4d｜Axure｜P o'
     images:
       - type: ImageBlock
         url: /images/组 14.png
