@@ -15,7 +15,7 @@ excerpt: >-
   安全架构：首创「三重验证可视化流程」（2FA+生物识别+冷热钱包切换）；创建「冷热钱包切换动效指引系统」，降低用户操作错误率68%；创新「资产安全状态可视化系统」，通过颜色编码+动效降低用户操作风险；全球化设计：设计多语种实时切换的交易界面框架，图标系统通过文化可适性测试；设计多链资产管理面板，支持多公链资产一站式展示。
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image2.jpg
+  url: /images/封面-Web.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
