@@ -3,7 +3,7 @@ type: ProjectLayout
 title: B端
 date: '2025-03-13'
 client: Saas、数据可视化大屏、工控机
-description: Saas、数据可视化大屏、工控机
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/封面-B端.png
