@@ -26,7 +26,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-## 交易类 Web3
+## jkk交易类 Web3
 
 > 痛点定位：破解传统系统操作低效难题，设计双轨交互模式支持2000+设备并发监控
 >
