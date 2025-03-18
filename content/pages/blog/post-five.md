@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 全链路 品牌宣传及会展设计
+title: 全链路 品牌宣传及会展设计（2014-2024）
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
