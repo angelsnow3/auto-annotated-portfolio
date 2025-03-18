@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 界面设计合集
+title: 全链路界面设计-合集
 colors: colors-a
 date: '2025-03-17'
 client: ''
