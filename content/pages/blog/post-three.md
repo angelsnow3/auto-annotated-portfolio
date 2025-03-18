@@ -9,7 +9,7 @@ excerpt: >-
   ；创建工业手势交互视觉体系：设计5种手势操作的UI反馈动效与视觉引导界面方案落地后减少产线巡检人员配置40%，入选工信部《2023年5G工厂工名录》；巡检机器人，图像数据仪表识别界面设计，巡检任务地图规划界面设计。
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/截屏2025-03-18 22.15.07.png
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
