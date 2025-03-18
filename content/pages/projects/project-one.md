@@ -1,19 +1,16 @@
 ---
 type: ProjectLayout
-title: 视觉设计
+title: 视觉品牌设计-作品集
 colors: colors-a
 date: '2025-03-16'
-client: 邱雪
+client: Banner、海报、H5等活动视觉设计线上线下物料 / 品牌VI 系统 / IP 周边
 description: >-
-  品牌设计、IP周边、H5视觉活动及品牌VI、线上线下宣传视觉设计等方面有丰富的经验连续4年主导MWC通信展展台设计，获通信大会「最受品牌欢迎奖」，品牌搜索指数提升300%
+  VI 系统 / IP 孵化 + 全渠道视觉：APP 活动页（CTR+35%）、线下展会（留资率超行业 2 倍）、50 + 品牌项目（含 logo / 手册
+  / 周边），电商店铺（转化率提升 40%），附全案设计资产库！
 featuredImage:
   type: ImageBlock
   url: /images/封面-视觉设计.png
   altText: 视觉设计封面
-media:
-  type: ImageBlock
-  url: /images/MONKEYgame.png
-  altText: Project image
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
