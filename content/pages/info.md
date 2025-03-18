@@ -416,7 +416,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: 跟我讲讲您的项目
           isRequired: true
           width: full
           type: TextareaFormControl
