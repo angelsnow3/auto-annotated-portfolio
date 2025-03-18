@@ -50,7 +50,8 @@ sections:
       - type: Button
         label: PDF简历 下载
         altText: ''
-        url: 'https://tcngzdn34lng.feishu.cn/wiki/Wti2wrrNkieSlskMagVcawIUndb/'
+        url: >-
+          https://tcngzdn34lng.feishu.cn/wiki/Wti2wrrNkieSlskMagVcawIUndb?from=from_copylink/
         showIcon: false
         icon: arrowRight
         iconPosition: right
