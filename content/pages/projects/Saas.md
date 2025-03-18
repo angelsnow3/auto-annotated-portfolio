@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Online
+title: 企业级 B 端设计实战
 date: '2025-03-12'
 client: Saas、数据可视化大屏、工控机
 description: >-
