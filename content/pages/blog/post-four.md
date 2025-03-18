@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 硬件融合创新 硬件外观效果设计
+title: 硬件融合创新 硬件外观效果设计（2021-2024）
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
