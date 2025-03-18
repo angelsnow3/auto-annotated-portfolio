@@ -1,31 +1,44 @@
 ---
 type: ProjectLayout
-title: 品牌设计
+title: 企业级 B 端设计实战
 colors: colors-a
 date: '2025-03-01'
-client: '- 2022/08/08'
+client: Saas、数据可视化大屏、工控机
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  5G网管系统 / 智慧工厂ERP / 业务管理平台，打造 SAAS 后台 / 智能风控系统 /
+  数据可视化大屏，系统可用性达98.7%，已应用于多个中标项目。
 featuredImage:
   type: ImageBlock
-  url: /images/h54 拷贝.png
+  url: /images/封面-B端.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
 ---
+## 5G网络管理平台
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+> 痛点定位：破解传统系统操作低效难题，设计双轨交互模式支持2000+设备并发监控
+>
+> 创新方案：构建「拓扑网络+实时数据流」双视图框架，引入AI异常预警可视化系统
+>
+> 建立工业级设计系统：包含500+组件、23种数据图表模板、8套主题色板
+>
+> 价值验证：方案落地普利司通等5家全球TOP10轮胎工厂，覆盖5000+企业用户
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/B%E7%AB%AF@1x.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E4%B8%9A%E5%8A%A1%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0-%E9%A6%96%E9%A1%B51440_%E5%89%AF%E6%9C%AC.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%98%B2%E8%8C%83%E8%AE%BE%E6%96%BD%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F-%E9%80%82%E9%85%8D1920.png)
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+## 零代码可视化平台
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+> 方法体系：创建「基础组件-行业模板-三维场景」分层架构，集成Echarts+引擎
+>
+> 体验创新：设计智能布局配置界面，非技术人员搭建效率提升60%
+>
+> 质量保障：UI方案客诉率低于行业平均水平42%，支撑300+企业快速部署
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/web%E5%A4%A7%E5%B1%8F-%E9%A6%96%E9%A1%B5%EF%BC%8F%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/web%E5%A4%A7%E5%B1%8F-%E8%AE%BE%E8%AE%A1%E9%A1%B5%EF%BC%8F%E5%9B%BE%E5%B1%82%E7%BC%96%E8%BE%91.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E5%A4%A7%E5%B1%8FUWB2.0%203D%E5%A4%87%E4%BB%BD.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/Extra%20Large%E5%A4%87%E4%BB%BD@1x.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/Extra%20Large%E5%A4%87%E4%BB%BD%206@1x.png)
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+## 轮胎工厂应用系统
+
+> 小药车间上辅机系统
+>
+> 5G智慧工厂工控机 5G+PLC
+
+![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E5%8C%97%E4%BA%AC%E6%96%B0%E5%85%83%E4%B8%8A%E8%BE%85%E6%9C%BA%E7%B3%BB%E7%BB%9F.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E5%8C%97%E4%BA%AC%E6%96%B0%E5%85%83%E4%B8%8A%E8%BE%85%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%98%BE%E7%A4%BA%E5%B1%8F.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E6%88%AA%E5%B1%8F2025-03-18%2015.39.36.png)
+
