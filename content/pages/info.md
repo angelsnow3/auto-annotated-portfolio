@@ -213,6 +213,17 @@ sections:
         label: 工控机
       - type: Label
         label: Pad
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
   - type: FeaturedItemsSection
     subtitle: '简历专区:'
     colors: colors-f
@@ -278,17 +289,6 @@ sections:
           - pb-8
           - pl-4
           - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: DividerSection
     styles:
       self:
