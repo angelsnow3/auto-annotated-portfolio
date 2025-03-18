@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions: []
     text: |
-      您可以继续向下滚动查看有关我的更多详细信息和资历。
+      继续向下滚动查看有关我的作品集及更多详细信息。
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
