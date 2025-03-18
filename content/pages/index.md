@@ -92,7 +92,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "你看到了有趣的项目了吗？可以告诉我更多...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
