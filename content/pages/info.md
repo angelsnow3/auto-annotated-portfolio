@@ -409,7 +409,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Email
+          placeholder: 邮箱
           isRequired: true
           width: full
           type: EmailFormControl
