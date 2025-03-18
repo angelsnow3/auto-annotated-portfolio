@@ -23,8 +23,14 @@ backgroundImage:
 ## 5G网络管理平台
 
 > 痛点定位：破解传统系统操作低效难题，设计双轨交互模式支持2000+设备并发监控
+>
+>
 > 创新方案：构建「拓扑网络+实时数据流」双视图框架，引入AI异常预警可视化系统
+>
+>
 > 建立工业级设计系统：包含500+组件、23种数据图表模板、8套主题色板
+>
+>
 > 价值验证：方案落地普利司通等5家全球TOP10轮胎工厂，覆盖5000+企业用户
 
 ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/B%E7%AB%AF@1x.png)![](/images/%E4%B8%9A%E5%8A%A1%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0-%E9%A6%96%E9%A1%B51440_%E5%89%AF%E6%9C%AC.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%98%B2%E8%8C%83%E8%AE%BE%E6%96%BD%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F-%E9%80%82%E9%85%8D1920.png)
