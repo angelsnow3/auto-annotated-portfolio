@@ -393,7 +393,7 @@ sections:
       elementId: sign-up-form
       fields:
         - name: 您的名字
-          label: 您的公司
+          label: 您的名字
           hideLabel: true
           placeholder: 您的名字
           isRequired: true
