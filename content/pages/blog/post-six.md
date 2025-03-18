@@ -4,7 +4,9 @@ title: 零代码可视化平台设计
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  ① 方法体系：创建「基础组件-行业模板-三维场景」分层架构，集成Echarts+Three.js引擎   ②
+  体验创新：设计智能布局配置界面，非技术人员搭建效率提升60%    ③ 质量保障：UI方案客诉率低于行业平均水平42%，支撑300+企业快速部署
 featuredImage:
   type: ImageBlock
   url: /images/大屏UWB2.0 3D备份.png
