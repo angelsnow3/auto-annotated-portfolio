@@ -420,7 +420,7 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
+        - name: 更新同意
           label: 接收我的消息
           isRequired: false
           width: full
