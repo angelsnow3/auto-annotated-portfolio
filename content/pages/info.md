@@ -400,7 +400,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: 您的公司
-          label: Last Name
+          label: 您的公司
           hideLabel: true
           placeholder: Last Name
           isRequired: false
