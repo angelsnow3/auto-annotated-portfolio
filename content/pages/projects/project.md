@@ -2,8 +2,8 @@
 type: ProjectLayout
 title: C 端用户体验设计
 date: '2025-03-14'
-client: 金融 / 教育 / 旅行博物馆 App、PC客户端、交易类Web3
-description: 金融 / 艺术出行 / 教育（月活2000万）APP 全链路设计：优化核心流程 60% 操作步骤，用户留存率提升 22%，输出多端适配设计系统！
+client: 金融 / 教育 / 旅行博物馆 App、PC客户端、租车小程序、交易类Web3
+description: 金融 / 租车｜旅行｜教育APP全链路设计：优化核心流程 60% 操作步骤，用户留存率提升 22%，输出多端适配设计系统！
 featuredImage:
   type: ImageBlock
   url: /images/封面-C端.jpg
@@ -20,27 +20,15 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-## 交易类 Web3
+## 金融交易类 Web3
 
-> 痛点定位：破解传统系统操作低效难题，设计双轨交互模式支持2000+设备并发监控
->
-> 创新方案：构建「拓扑网络+实时数据流」双视图框架，引入AI异常预警可视化系统
->
-> 建立工业级设计系统：包含500+组件、23种数据图表模板、8套主题色板
->
-> 价值验证：方案落地普利司通等5家全球TOP10轮胎工厂，覆盖5000+企业用户
+> 数字钱包｜交易所｜动静态官网｜游戏项目｜浏览器
 
-![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/h54.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/web2.png) ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/more2.png)
+![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/h54.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/web2.png) ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/more2.png)![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_41.png)![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_42.png)![](/images/%E6%88%AA%E5%B1%8F2025-03-18%2021.19.55.png)![](/images/%E6%88%AA%E5%B1%8F2025-03-18%2021.20.09.png)![](/images/%E6%88%AA%E5%B1%8F2025-03-18%2021.20.24.png)![](/images/%E6%88%AA%E5%B1%8F2025-03-18%2021.20.43.png)![](/images/more4.png)
 
-## K12教育类App/PC/Pad
+## K12教育类App
 
-> 痛点定位：破解传统系统操作低效难题，设计双轨交互模式支持2000+设备并发监控
->
-> 创新方案：构建「拓扑网络+实时数据流」双视图框架，引入AI异常预警可视化系统
->
-> 建立工业级设计系统：包含500+组件、23种数据图表模板、8套主题色板
->
-> 价值验证：方案落地普利司通等5家全球TOP10轮胎工厂，覆盖5000+企业用户
+> App跟踪迭代V1.0-V5.0｜适配PC客户端、Pad端｜教师端、学生端
 
 ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_23.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_24.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_25.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_28.png)
 
@@ -52,9 +40,8 @@ backgroundImage:
 
 ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_30.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_31.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_32.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_33.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_34.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_35.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/_static/app-assets/public/images/%E6%88%AA%E5%B1%8F2025-03-18%2020.39.10.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/_static/app-assets/public/images/%E6%88%AA%E5%B1%8F2025-03-18%2020.40.12.png)
 
-## 轮胎工厂应用系统
+## 其他类 App
 
-> 小药车间上辅机系统
->
-> 5G智慧工厂工控机 5G+PLC
+> 租车小程序｜情侣旅行类App
 
+![](/images/%E6%88%AA%E5%B1%8F2025-03-18%2021.19.55.png)![](/images/%E5%8E%BB%E5%93%AA%E5%84%BF.png)
