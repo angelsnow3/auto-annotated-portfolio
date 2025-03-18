@@ -13,10 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 欢迎踏入我的创意宇宙，犹如开启星际穿越，能看到我职业生涯闪耀瞬间。
-    subtitle: >-
-      这个作品集也是我专业实力的凝练，期待与同行交流，为潜在伙伴展示实力，感谢您的关注
-      。一旦你们留下深刻印象，您可以继续向下滚动查看有关我的更多详细信息和资历。
+    title: Hello！欢迎进入我的世界
+    subtitle: 这里能看到我职业生涯闪耀瞬间，也是我专业实力的凝练，期待与你交流。
     styles:
       self:
         height: auto
@@ -35,6 +33,8 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |
+      继续向下滚动查看有关我的作品集及更多详细信息
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -92,7 +92,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "你看到了有趣的项目了吗？可以告诉我更多...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -100,37 +100,32 @@ sections:
         - name: firstName
           label: First Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: 你的名字
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
           label: Last Name
           hideLabel: true
-          placeholder: Last Name
+          placeholder: 你的公司
           isRequired: false
           width: 1/2
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Email
+          placeholder: 邮箱
           isRequired: true
           width: 1/2
           type: EmailFormControl
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: 地址
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "提交 \U0001F680"
       styles:
         self:
           textAlign: center
