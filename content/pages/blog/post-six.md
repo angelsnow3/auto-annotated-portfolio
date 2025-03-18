@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 零代码可视化平台设计
+title: 零代码可视化平台设计（2022-2024）
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
