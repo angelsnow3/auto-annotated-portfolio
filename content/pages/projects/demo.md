@@ -6,7 +6,7 @@ client: 交互动画 / 视觉元素设计 / 产品外观设计 / 展台设计
 description: 动效交互：加载动画/引导动效 （Blender+AE） 展厅设计：展会预设效果设计（对接搭建设计）产品外观：硬件外观设计（对接结构工程师）
 featuredImage:
   type: ImageBlock
-  url: /images/封面-B端.png
+  url: /images/封面-3D动效.gif
   altText: Project thumbnail image
   caption: ''
   elementId: ''
