@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 全链路视觉品牌设计
+title: 视觉品牌设计-作品集
 colors: colors-a
 date: '2025-03-16'
 client: Banner、海报、H5等活动视觉设计线上线下物料 / 品牌VI 系统 / IP 周边
