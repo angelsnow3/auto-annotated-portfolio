@@ -392,7 +392,7 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
+        - name: 您的名字
           label: ''
           hideLabel: true
           placeholder: First Name
