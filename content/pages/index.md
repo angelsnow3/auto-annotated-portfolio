@@ -107,7 +107,7 @@ sections:
         - name: lastName
           label: Last Name
           hideLabel: true
-          placeholder: Last Name
+          placeholder: 你的公司
           isRequired: false
           width: 1/2
           type: TextFormControl
