@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: B端设计-集合
+title: B端设计
 date: '2025-03-13'
 client: Saas、数据可视化大屏、工控机
 description: ''
