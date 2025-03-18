@@ -9,6 +9,6 @@ description: >-
   数据可视化大屏，系统可用性达98.7%，已应用于多个中标项目。
 featuredImage:
   type: ImageBlock
-  url: /images/h54 拷贝.png
+  url: /images/封面-B端.png
   altText: Project thumbnail image
 ---
