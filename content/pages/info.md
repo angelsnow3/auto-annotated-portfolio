@@ -51,7 +51,7 @@ sections:
         label: PDF简历 下载
         altText: ''
         url: >-
-          https://tcngzdn34lng.feishu.cn/wiki/Wti2wrrNkieSlskMagVcawIUndb?from=from_copylink/
+          https://h4z1gaho8k.feishu.cn/file/LIcjbBBSVoBaN6xBQBRcgTBJnni?from=from_copylink/
         showIcon: false
         icon: arrowRight
         iconPosition: right
