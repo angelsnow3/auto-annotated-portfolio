@@ -37,7 +37,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
+                "altText": "Boss",
                 "label": "Boss",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
