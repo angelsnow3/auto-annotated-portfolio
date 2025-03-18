@@ -1,9 +1,11 @@
 ---
 type: ProjectLayout
-title: B端设计
+title: 企业级 B 端设计实战
 date: '2025-03-13'
 client: Saas、数据可视化大屏、工控机
-description: ''
+description: >-
+  5G网管系统 / 智慧工厂ERP / 业务管理平台，打造 SAAS 后台 / 智能风控系统 /
+  数据可视化大屏，系统可用性达98.7%，已应用于多个中标项目。
 featuredImage:
   type: ImageBlock
   url: /images/封面-B端.png
