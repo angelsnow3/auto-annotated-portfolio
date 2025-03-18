@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: C端 UI/UX
+title: 全链路 C 端设计
 date: '2025-03-14'
 client: 金融/教育类App、租车小程序、PC客户端、交易类Web3、博物馆类App
 description: >-
