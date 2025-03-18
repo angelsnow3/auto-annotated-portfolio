@@ -88,20 +88,3 @@ bottomSections:
         flexDirection: row
         textAlign: left
 ---
-*   痛点定位：破解传统系统操作低效难题，设计双轨交互模式支持2000+设备并发监控
-
-*   创新方案：构建「拓扑网络+实时数据流」双视图框架，引入AI异常预警可视化系统
-
-*   建立工业级设计系统：包含500+组件、23种数据图表模板、8套主题色板
-
-*   价值验证：方案落地普利司通等5家全球TOP10轮胎工厂，覆盖5000+企业用户
-
-## Good habits
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-> “Everybody should learn to
->
-> program a computer, because it teaches you how to think.”
-
-![](/images/B%E7%AB%AF@1x.png)
