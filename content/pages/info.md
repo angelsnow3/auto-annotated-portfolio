@@ -425,7 +425,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "提交 \U0001F680"
       styles:
         self:
           textAlign: center
