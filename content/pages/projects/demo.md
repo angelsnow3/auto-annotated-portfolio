@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 企业级 B 端设计实战
+title: 3D 动效×空间×产品
 date: '2025-03-01'
 client: Saas、数据可视化大屏、工控机
 description: >-
