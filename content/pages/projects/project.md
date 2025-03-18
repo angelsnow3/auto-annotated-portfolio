@@ -26,15 +26,11 @@ backgroundImage:
 
 ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/h54.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/web2.png) ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/more2.png)![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_41.png)![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_42.png)![](/images/%E6%88%AA%E5%B1%8F2025-03-18%2021.19.55.png)![](/images/%E6%88%AA%E5%B1%8F2025-03-18%2021.20.09.png)![](/images/%E6%88%AA%E5%B1%8F2025-03-18%2021.20.24.png)![](/images/%E6%88%AA%E5%B1%8F2025-03-18%2021.20.43.png)![](/images/more4.png)
 
-
-
-## K12教育类App/PC/Pad
+## K12教育类App
 
 > App跟踪迭代V1.0-V5.0｜适配PC客户端、Pad端｜教师端、学生端
 
 ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_23.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_24.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_25.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_28.png)
-
-
 
 ## 一站式博物馆App
 
@@ -43,8 +39,6 @@ backgroundImage:
 > 产品功能：博物馆购票+讲解地图+标记里程碑+路程规划+分享点评+智慧交通
 
 ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_30.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_31.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_32.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_33.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_34.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_35.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/_static/app-assets/public/images/%E6%88%AA%E5%B1%8F2025-03-18%2020.39.10.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/_static/app-assets/public/images/%E6%88%AA%E5%B1%8F2025-03-18%2020.40.12.png)
-
-
 
 ## 其他类 App
 
