@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 视觉设计
+title: 全链路视觉品牌设计
 colors: colors-a
 date: '2025-03-16'
 client: >-
