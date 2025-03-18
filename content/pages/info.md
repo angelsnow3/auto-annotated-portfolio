@@ -225,7 +225,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    subtitle: '简历专区:'
+    subtitle: '简历预览下载专区:'
     colors: colors-f
     items:
       - type: FeaturedItem
