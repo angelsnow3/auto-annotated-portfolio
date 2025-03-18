@@ -4,7 +4,7 @@ title: 视觉品牌设计
 colors: colors-a
 date: '2025-03-16'
 client: Banner、海报、H5等活动视觉设计线上线下物料 / 品牌VI 系统 / IP 周边
-description: 全渠道视觉：APP / H5活动页、 品牌项目（VI系统 / 手册 / IP / 周边）、线下展会活动、电商店铺视觉设计，附全案设计资产库！
+description: 全渠道视觉：APP/H5活动页、 品牌项目（VI系统/手册/IP/周边）、线下展会活动、电商店铺视觉设计，附全案设计资产库！
 featuredImage:
   type: ImageBlock
   url: /images/封面-视觉设计.png
