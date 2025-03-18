@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: AR/巡检机器人智慧工厂项目
-colors: colors-b
+colors: colors-a
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
