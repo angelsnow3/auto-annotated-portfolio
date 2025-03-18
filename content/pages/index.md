@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Hello！欢迎进入我的创意世界
+    title: Hello！欢迎进入我的世界
     subtitle: 这里能看到我职业生涯闪耀瞬间，也是我专业实力的凝练，期待与你交流。
     styles:
       self:
