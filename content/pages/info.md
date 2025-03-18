@@ -184,17 +184,6 @@ sections:
           - pr-4
         textAlign: left
     title: 核心技能
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: LabelsSection
     colors: colors-f
     subtitle: '设计端平台:'
