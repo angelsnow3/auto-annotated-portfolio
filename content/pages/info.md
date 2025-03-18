@@ -399,7 +399,7 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
+        - name: 您的公司
           label: Last Name
           hideLabel: true
           placeholder: Last Name
