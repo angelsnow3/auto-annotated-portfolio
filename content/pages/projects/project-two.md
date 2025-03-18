@@ -4,7 +4,7 @@ title: 界面设计合集
 colors: colors-a
 date: '2025-03-17'
 client: ''
-description: ToB/ToC 双赛道：覆盖 PC/APP/ 小程序 / Web3，熟悉全规范设计系统，擅长复杂系统的界面设计、数据可视化、工具用户体验优化。
+description: ToB/ToC 双赛道：擅长复杂系统的界面设计、数据可视化、工具用户体验优化，覆盖 PC/APP/ 小程序 / Web3，熟悉全规范设计系统。
 featuredImage:
   type: ImageBlock
   url: /images/封面-界面设计.png
