@@ -10,7 +10,7 @@ excerpt: >-
   建立工业级设计系统：200+组件、23种数据图表模板、4套主题色板    ④ 价值验证：方案落地全球TOP10轮胎工厂，覆盖500+企业用户
 featuredImage:
   type: ImageBlock
-  url: /images/大屏UWB2.0 3D备份.png
+  url: /images/封面-B端.png
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
