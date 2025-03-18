@@ -8,7 +8,7 @@ excerpt: >-
   体验革新：建立行业首个「一对一情感化学习路径系统」（成就徽章+直播课）；设计系统：学生/教师多端设计，支撑5大产品线快速迭代；商业转化：主导5个大版本UI升级，推动付费课程点击转化率提升38%；品牌升级：重塑IP形象"学宝家族"，带动周边商品销售，学生喜爱粘度提升30%。
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/学习宝8.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
