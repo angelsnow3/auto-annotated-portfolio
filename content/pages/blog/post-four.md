@@ -8,7 +8,7 @@ excerpt: >-
   跨界融合：主导BBU设备「散热结构+交互界面」一体化设计；工艺突破：采用纳米喷涂工艺实现设备外壳耐腐蚀等级IP65；商业成果：获外观专利（202230751161X），在2022巴塞罗那MWC世界通信大会参展亮相。
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/截屏2025-03-18 22.09.42.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
