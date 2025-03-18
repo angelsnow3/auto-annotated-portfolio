@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions: []
     text: |
-      这里能看到我职业生涯闪耀瞬间，也是我专业实力的凝练，期待与你交流。一旦你留下深刻印象，您可以继续向下滚动查看有关我的更多详细信息和资历。
+      一旦你留下深刻印象，您可以继续向下滚动查看有关我的更多详细信息和资历。
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
