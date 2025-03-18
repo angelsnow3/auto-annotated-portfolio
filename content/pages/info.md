@@ -386,7 +386,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "让我们聊聊吧... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
