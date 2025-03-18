@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: B端 5G通信网络管理平台（2020-2024）
+title: B端 5G通信网络管理平台（2021-2024）
 colors: colors-a
 date: '2025-03-14'
 author: content/data/team/doris-soto.json
