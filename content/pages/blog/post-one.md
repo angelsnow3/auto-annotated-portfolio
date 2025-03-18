@@ -90,8 +90,4 @@ bottomSections:
 
 *   品牌升级：重塑IP形象"学宝家族"，带动周边商品销售，学生喜爱粘度提升30%
 
-## About Coding
-
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
-
 ![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D1.png)![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D2.png)![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D3.png)![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D4.png)![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D5.png)![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D6.png)![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D7.png)![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D8.png)![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D9.png)![](/images/%E5%AD%A6%E4%B9%A0%E5%AE%9D10.png)
