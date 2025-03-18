@@ -31,7 +31,7 @@ backgroundImage:
 > 价值验证：方案落地普利司通等5家全球TOP10轮胎工厂，覆盖5000+企业用户
 
 ![](/images/h54.png)![](/images/web2.png)
-![](/images/h54%20%E6%8B%B7%E8%B4%9D.png)![](/images/more2.png)
+![](/images/more2.png)
 
 ## K12教育类App/PC/Pad
 
@@ -45,8 +45,6 @@ backgroundImage:
 
 ![](/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_23.png)![](/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_24.png)![](/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_25.png)![](/images/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_28.png)
 
-
-
 ## 一站式博物馆App
 
 > 全链路设计：用户调研-体验地图-产品原型- UX交互效果演示- UI高保真效果图
@@ -55,13 +53,9 @@ backgroundImage:
 
 ![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_30.png)![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_31.png)![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_32.png)![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_33.png)![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_34.png)![](/images/%E9%82%B1%E9%9B%AA_%E8%AE%BE%E8%AE%A1%E5%B8%88_%E4%BD%9C%E5%93%81%E9%9B%86_35.png)
 
-
 ## 轮胎工厂应用系统
 
 > 小药车间上辅机系统
 >
 > 5G智慧工厂工控机 5G+PLC
-
-
-
 
