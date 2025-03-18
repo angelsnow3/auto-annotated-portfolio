@@ -149,7 +149,7 @@ sections:
         textAlign: left
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: '核心技能:'
+    subtitle: Figma｜Sketch｜PS｜AI｜AE｜ID｜Blender｜C4d｜ProtoPie｜Lottie｜Axure｜Xmind
     images:
       - type: ImageBlock
         url: /images/组 14.png
@@ -183,19 +183,49 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: 核心技能
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: '设计端平台:'
+    items:
+      - type: Label
+        label: App
+      - type: Label
+        label: Web3
+      - type: Label
+        label: PC
+      - type: Label
+        label: 大屏
+        url: ''
+      - type: Label
+        label: Saas
+      - type: Label
+        label: 小程序
+      - type: Label
+        label: H5
+      - type: Label
+        label: CRM
+        url: ''
+      - type: Label
+        label: HUD
+        url: ''
+      - type: Label
+        label: 工控机
+      - type: Label
+        label: Pad
   - type: DividerSection
     styles:
       self:
         width: wide
         padding:
-          - pt-8
-          - pb-8
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    subtitle: '简历专区:'
+    subtitle: '简历预览下载专区:'
     colors: colors-f
     items:
       - type: FeaturedItem
@@ -259,46 +289,6 @@ sections:
           - pb-8
           - pl-4
           - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: '设计端平台:'
-    items:
-      - type: Label
-        label: App
-      - type: Label
-        label: Web3
-      - type: Label
-        label: PC
-      - type: Label
-        label: 大屏
-        url: ''
-      - type: Label
-        label: Saas
-      - type: Label
-        label: 小程序
-      - type: Label
-        label: H5
-      - type: Label
-        label: CRM
-        url: ''
-      - type: Label
-        label: HUD
-        url: ''
-      - type: Label
-        label: 工控机
-      - type: Label
-        label: Pad
   - type: DividerSection
     styles:
       self:
