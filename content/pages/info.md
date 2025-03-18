@@ -164,8 +164,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/组-17.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
