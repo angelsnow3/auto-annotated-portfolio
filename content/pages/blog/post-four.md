@@ -90,8 +90,4 @@ bottomSections:
 
 ## 通信设备
 
-硬件ID可视化设计
-
-### BBU通信
-
-![](/images/BBU21001.png)
+硬件ID可视化设计![](/images/BBU21001.png)
