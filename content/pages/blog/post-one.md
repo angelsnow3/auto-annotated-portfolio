@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 学习宝教育产品UI迭代与App重构
+title: 学习宝教育产品UI迭代与App重构（2014-2017）
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/UI.json
