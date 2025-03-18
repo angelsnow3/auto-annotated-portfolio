@@ -402,7 +402,7 @@ sections:
         - name: 您的公司
           label: 您的公司
           hideLabel: true
-          placeholder: Last Name
+          placeholder: 您的公司
           isRequired: false
           width: 1/2
           type: TextFormControl
