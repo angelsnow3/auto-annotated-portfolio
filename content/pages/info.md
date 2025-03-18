@@ -183,6 +183,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: 核心技能
   - type: DividerSection
     styles:
       self:
