@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 品牌设计
+title: 企业级 B 端设计实战
 colors: colors-a
 date: '2025-03-01'
 client: '- 2022/08/08'
