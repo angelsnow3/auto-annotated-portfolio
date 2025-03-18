@@ -421,7 +421,7 @@ sections:
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: 接收我的消息
           isRequired: false
           width: full
           type: CheckboxFormControl
