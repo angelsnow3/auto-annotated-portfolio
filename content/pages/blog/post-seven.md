@@ -4,7 +4,10 @@ title: B端 5G通信网络管理平台
 colors: colors-a
 date: '2025-03-14'
 author: content/data/team/doris-soto.json
-excerpt: 2020-2024
+excerpt: >-
+  2020-2024- 痛点定位：破解传统系统操作低效难题，设计双轨交互模式支持2000+设备并发监控-
+  创新方案：构建「拓扑网络+实时数据流」双视图框架，引入AI异常预警可视化系统 - 建立工业级设计系统：包含500+组件、23种数据图表模板、8套主题色板-
+  价值验证：方案落地普利司通等5家全球TOP10轮胎工厂，覆盖5000+企业用户
 featuredImage:
   type: ImageBlock
   url: /images/大屏UWB2.0 3D备份.png
