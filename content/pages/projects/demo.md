@@ -5,7 +5,7 @@ date: '2025-03-13'
 client: Saas、数据可视化大屏、工控机
 description: >-
   5G 网管系统 / 智慧工厂 ERP / 业务管理平台，打造 SAAS 后台 / 智能风控系统 /
-  数据可视化大屏，（应用多个中标项目），系统可用性达98.7%！，跨团队协作（PM / 开发）全流程交付！
+  数据可视化大屏，应用于多个中标项目，系统可用性达98.7%！，跨团队协作（PM / 开发）全流程交付！
 featuredImage:
   type: ImageBlock
   url: /images/封面-B端.png
