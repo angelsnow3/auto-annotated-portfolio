@@ -4,7 +4,10 @@ title: 全链路 品牌宣传及会展设计
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  涵盖了用户研究、UI、UX、品牌设计、IP周边和线下物料等多个设计领域
+  App、PC、Web3，小程序、H5视觉活动及品牌VI、线上线下宣传视觉设计等方面有丰富的经验
+  连续4年主导MWC通信展展台设计，获通信大会「最受品牌欢迎奖」，品牌搜索指数提升300%
 featuredImage:
   type: ImageBlock
   url: /images/展位效果.jpg
