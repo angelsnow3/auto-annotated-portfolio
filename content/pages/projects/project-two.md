@@ -5,8 +5,8 @@ colors: colors-a
 date: '2025-03-17'
 client: ''
 description: >-
-  专注于ToB /
-  ToC的产品设计，擅长复杂系统的界面设计、数据可视化、工具用户体验优化。以往设计工作可内容涵盖了用户研究、UI、UX、UE。作品包含PC端，手机端，小程序，H5，Web3等，熟悉iOS，安卓系统 
+  ToB/ToC 双赛道：复杂系统（ERP / 数据大屏）× 工具 UX，覆盖 PC/APP/ 小程序 /
+  Web3，熟悉全规范设计系统，擅长复杂系统的界面设计、数据可视化、工具用户体验优化。以往设计工作可内容涵盖了用户研究、UI、UX、UE。作品包含PC端，手机端，小程序，H5，Web3等，熟悉iOS，安卓系统 
 featuredImage:
   type: ImageBlock
   url: /images/封面-界面设计.png
