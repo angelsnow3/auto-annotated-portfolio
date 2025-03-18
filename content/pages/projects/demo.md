@@ -1,14 +1,12 @@
 ---
 type: ProjectLayout
-title: 企业级 B 端设计实战
+title: 3D 动效×空间×产品
 date: '2025-03-01'
-client: Saas、数据可视化大屏、工控机
-description: >-
-  5G网管系统 / 智慧工厂ERP / 业务管理平台，打造 SAAS 后台 / 智能风控系统 /
-  数据可视化大屏，系统可用性达98.7%，已应用于多个中标项目。
+client: 交互动画 / 视觉元素设计 / 产品外观设计 / 展台设计
+description: 动效交互：加载动画/引导动效 （Blender+AE） 展厅设计：展会预设效果设计（对接搭建设计）产品外观：硬件外观设计（对接结构工程师）
 featuredImage:
   type: ImageBlock
-  url: /images/封面-B端.png
+  url: /images/封面-3D动效.gif
   altText: Project thumbnail image
   caption: ''
   elementId: ''
