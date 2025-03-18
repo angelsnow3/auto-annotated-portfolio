@@ -4,7 +4,9 @@ title: AR/巡检机器人智慧工厂项目
 colors: colors-a
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  设计AR眼镜三层信息可视化系统（全局状态层/设备详情层/操作指引层）
+  ；创建工业手势交互视觉体系：设计5种手势操作的UI反馈动效与视觉引导界面方案落地后减少产线巡检人员配置40%，入选工信部《2023年5G工厂工名录》；巡检机器人，图像数据仪表识别界面设计，巡检任务地图规划界面设计。
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
