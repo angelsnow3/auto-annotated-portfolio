@@ -11,10 +11,6 @@ featuredImage:
   type: ImageBlock
   url: /images/封面-视觉设计.png
   altText: 视觉设计封面
-media:
-  type: ImageBlock
-  url: /images/MONKEYgame.png
-  altText: Project image
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
