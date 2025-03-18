@@ -5,9 +5,8 @@ colors: colors-a
 date: '2025-03-01'
 client: '- 2022/08/08'
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  5G网管系统 / 智慧工厂ERP / 业务管理平台，打造 SAAS 后台 / 智能风控系统 /
+  数据可视化大屏，系统可用性达98.7%，已应用于多个中标项目。
 featuredImage:
   type: ImageBlock
   url: /images/h54 拷贝.png
