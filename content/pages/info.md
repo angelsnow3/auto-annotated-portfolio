@@ -306,7 +306,8 @@ sections:
         actions:
           - type: Link
             label: 全链路体验设计_作品集
-            url: ''
+            url: >-
+              https://tcngzdn34lng.feishu.cn/wiki/Wti2wrrNkieSlskMagVcawIUndb?from=from_copylink
         styles:
           self:
             textAlign: left
