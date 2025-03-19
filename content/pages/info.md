@@ -305,7 +305,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 视觉设计师
+            label: 全链路体验设计_作品集
             url: ''
         styles:
           self:
