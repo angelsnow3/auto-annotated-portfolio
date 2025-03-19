@@ -262,6 +262,17 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
   - type: FeaturedItemsSection
     subtitle: '简历预览下载专区:'
     colors: colors-f
@@ -344,17 +355,6 @@ sections:
     colors: colors-f
     text: |
       [angelsnow3@163.com](angelsnow3@163.com)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: DividerSection
     styles:
       self:
