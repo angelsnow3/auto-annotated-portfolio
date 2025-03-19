@@ -79,8 +79,8 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "label": "Boss直聘",
+                "url": "https://m.zhipin.com/mpa/html/resume-detail?sid=self&securityId=OSlTHoaAmvZgZ-j1_xos9675RrGck7AYjsYvAVozHcMTaVUKmVs-R2pv6QGEW7vd2utJMSsQ45jDHvmyjjRoR2KhNsEztx9P7BaDKCoAwCYypPFIMZNVx2jj8ndZ4wH-kvCS3lCrX4Qu2Rboncr5RZYyvPCvsMe6YQ~~",
                 "altText": "Netlify templates"
             }
         ],
