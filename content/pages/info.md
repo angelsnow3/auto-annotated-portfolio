@@ -289,7 +289,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: UX交互设计师
+            label: 视觉品牌设计_简历
             url: ''
         styles:
           self:
