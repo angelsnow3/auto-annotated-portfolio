@@ -19,4 +19,15 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+media:
+  type: VideoBlock
+  title: Title of the video
+  url: /Users/qiuxue/mine/design/作品集网站/作品集/3D交互动效作品集.mp4
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
+![](https://v.youku.com/video?vid=XNjQ2MjUzMTg3Ng%3D%3D)
