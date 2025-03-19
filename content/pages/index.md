@@ -51,7 +51,6 @@ sections:
       - content/pages/projects/demo.md
       - content/pages/projects/project.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
