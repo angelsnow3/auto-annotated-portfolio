@@ -88,10 +88,6 @@ bottomSections:
 
 *   商业成果：获外观专利（202230751161X），在2022巴塞罗那MWC世界通信大会参展亮相
 
-## Heading 2
+## 通信设备
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-### Heading 3
-
-![](/images/BBU21001.png)
+硬件ID可视化设计![](/images/BBU21001.png)
