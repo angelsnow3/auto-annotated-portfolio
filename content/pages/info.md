@@ -225,55 +225,105 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        subtitle: '教育经历:'
+        text: |+
+          **内蒙古师范大学  国际现代设计艺术学院 （2010-2014）**
+
+          *   艺术设计（视觉传达设计）
+
+          **2011**
+
+          *   《中国大学生广告学院奖》平面类入围奖
+
+          **2012**
+
+          *   《 2014 南京青奥会文化体育图标设计》三等奖
+
+          **2013**
+
+          *   2013《中国大学生广告学院奖》策划案金奖
+
+        styles:
+          self:
+            textAlign: left
+    columns: 2
+    spacingX: 60
+    spacingY: 60
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        textAlign: left
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
+  - type: FeaturedItemsSection
     subtitle: '简历预览下载专区:'
     colors: colors-f
     items:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: UI界面设计师
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: UX交互设计师
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: 全链路体验设计师
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: 视觉设计师
+            label: 全链路用户体验设计_简历
             url: >-
-              https://github.com/angelsnow3/pdf/blob/main/%E9%82%B1%E9%9B%AA-%20UI%E4%BD%9C%E5%93%81%E9%9B%86-compressed_00.png
+              https://h4z1gaho8k.feishu.cn/file/ZqP9bV8BooDwGKxR2moc3vvznKe?from=from_copylink
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 设计负责人
-            url: 'https://codepen.io/'
+            label: 视觉品牌设计_简历
+            url: ''
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 品牌设计负责人
-            url: 'https://www.instagram.com/'
+            label: 设计负责人_简历
+            url: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: 全链路体验设计_作品集
+            url: >-
+              https://tcngzdn34lng.feishu.cn/wiki/Wti2wrrNkieSlskMagVcawIUndb?from=from_copylink
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: 视觉品牌设计_作品集
+            url: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: 设计师_作品集
+            url: ''
         styles:
           self:
             textAlign: left
@@ -311,73 +361,6 @@ sections:
       self:
         width: wide
         padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: '教育经历:'
-        text: |+
-          **内蒙古师范大学  国际现代设计艺术学院 （2010-2014）**
-
-          *   艺术设计（视觉传达设计）
-
-          **2011**
-
-          *   《中国大学生广告学院奖》平面类入围奖
-
-          **2012**
-
-          *   《 2014 南京青奥会文化体育图标设计》三等奖
-
-          **2013**
-
-          *   2013《中国大学生广告学院奖》策划案金奖
-
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        subtitle: '荣誉:'
-        text: |+
-          **2015-2018**
-
-          *   宣誓时十三号
-
-          **2014**
-
-          *   react certificate somewhere
-
-          **2011**
-
-          *   my highschool
-
-        styles:
-          self:
-            textAlign: left
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
           - pt-12
           - pb-12
           - pl-4
@@ -386,46 +369,46 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "让我们聊聊吧... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
-          label: First Name
+        - name: 您的名字
+          label: 您的名字
           hideLabel: true
-          placeholder: First Name
+          placeholder: 您的名字
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
-          label: Last Name
+        - name: 您的公司
+          label: 您的公司
           hideLabel: true
-          placeholder: Last Name
+          placeholder: 您的公司
           isRequired: false
           width: 1/2
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Email
+          placeholder: 邮箱
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: 有什么想跟我分享的，比如跟我讲讲您的项目
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
+        - name: 更新同意
+          label: 接收我的消息
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "提交 \U0001F680"
       styles:
         self:
           textAlign: center
