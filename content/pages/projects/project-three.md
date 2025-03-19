@@ -16,7 +16,7 @@ featuredImage:
 >
 > 创新方案：构建「拓扑网络+实时数据流」双视图框架，引入AI异常预警可视化系统
 >
-> 建立工业级设计系统：包含500+组件、23种数据图表模板、8套主题色板
+> 建立工业级设计系统：包含200+组件、23种数据图表模板、4套主题色板
 >
 > 价值验证：方案落地普利司通等5家全球TOP10轮胎工厂，覆盖5000+企业用户
 
@@ -39,4 +39,3 @@ featuredImage:
 > 5G智慧工厂工控机 5G+PLC
 
 ![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E5%8C%97%E4%BA%AC%E6%96%B0%E5%85%83%E4%B8%8A%E8%BE%85%E6%9C%BA%E7%B3%BB%E7%BB%9F.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E5%8C%97%E4%BA%AC%E6%96%B0%E5%85%83%E4%B8%8A%E8%BE%85%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%98%BE%E7%A4%BA%E5%B1%8F.png)![](https://preview--starlit-torte-21bb45-3e3e4.stackbit.dev/images/%E6%88%AA%E5%B1%8F2025-03-18%2015.39.36.png)
-
