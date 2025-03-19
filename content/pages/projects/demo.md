@@ -22,7 +22,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://pan.baidu.com/s/1NV3RKgd_28nJyA5r1qnY8g?pwd=u9e8'
+  url: /Users/qiuxue/mine/design/作品集网站/作品集/3D交互动效作品集.mp4
   elementId: ''
   autoplay: false
   loop: false
