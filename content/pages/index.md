@@ -48,7 +48,6 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
       - content/pages/projects/demo.md
       - content/pages/projects/project.md
       - content/pages/projects/project-three.md
