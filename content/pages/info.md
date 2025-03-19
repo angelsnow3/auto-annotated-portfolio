@@ -297,7 +297,7 @@ sections:
         actions:
           - type: Link
             label: 全链路体验设计师
-            url: 'https://www.linkedin.com/'
+            url: ''
         styles:
           self:
             textAlign: left
