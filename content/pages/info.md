@@ -281,7 +281,8 @@ sections:
         actions:
           - type: Link
             label: UI界面设计师
-            url: ''
+            url: >-
+              https://h4z1gaho8k.feishu.cn/file/ZqP9bV8BooDwGKxR2moc3vvznKe?from=from_copylink
         styles:
           self:
             textAlign: left
