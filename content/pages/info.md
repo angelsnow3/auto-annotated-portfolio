@@ -314,7 +314,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 设计负责人
+            label: 视觉品牌设计_作品集
             url: ''
         styles:
           self:
