@@ -3,7 +3,9 @@ type: ProjectLayout
 title: 3D 交互动效×产品
 date: '2025-03-01'
 client: '交互动画 / 视觉元素设计 / 产品外观设计 '
-description: 动效交互：加载动画/引导动效 （Blender+AE） 产品外观：硬件外观设计（对接结构工程师）展厅设计：展会预设效果设计（对接搭建设计）
+description: >-
+  动效交互：加载动画/引导动效 （Blender 流体模拟 + AE 合成）ProtoPie轻量化文件 + 交互逻辑流程图，适配多端性能！
+  产品外观：硬件外观设计（对接结构工程师）展会预设效果设计（对接搭建设计）
 featuredImage:
   type: ImageBlock
   url: /images/封面-3D动效.gif
