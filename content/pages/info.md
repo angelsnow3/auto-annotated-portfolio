@@ -314,7 +314,7 @@ sections:
         actions:
           - type: Link
             label: 设计负责人
-            url: 'https://codepen.io/'
+            url: ''
         styles:
           self:
             textAlign: left
