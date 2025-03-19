@@ -22,9 +22,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: >-
-    https://pan.baidu.com/s/1NV3RKgd_28nJyA5r1qnY8g?pwd=u9e8 提取码: u9e8
-    复制这段内容后打开百度网盘手机App，操作更方便哦 --来自百度网盘超级会员v6的分享
+  url: 'https://pan.baidu.com/s/1NV3RKgd_28nJyA5r1qnY8g?pwd=u9e8'
   elementId: ''
   autoplay: false
   loop: false
