@@ -22,10 +22,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: >-
-    <iframe src="https://player.vimeo.com/video/1067226683?h=d296c52d15"
-    width="640" height="564" frameborder="0" allow="autoplay; fullscreen"
-    allowfullscreen></iframe>
+  url: 'https://vimeo.com/1067226683/d296c52d15'
   elementId: ''
   autoplay: false
   loop: false
