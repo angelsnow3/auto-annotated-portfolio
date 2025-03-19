@@ -1,10 +1,10 @@
 ---
 type: ProjectLayout
-title: 全链路界面设计
+title: 敬请期待
 colors: colors-a
 date: '2025-02-28'
 client: ''
-description: ToB/ToC 双赛道：擅长复杂系统的界面设计、数据可视化、工具用户体验优化，覆盖PC/APP/小程序/Web3，熟悉全规范设计系统。
+description: 待更新
 featuredImage:
   type: ImageBlock
   url: /images/封面-界面设计.png
