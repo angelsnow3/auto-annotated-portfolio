@@ -225,6 +225,44 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        subtitle: '教育经历:'
+        text: |+
+          **内蒙古师范大学  国际现代设计艺术学院 （2010-2014）**
+
+          *   艺术设计（视觉传达设计）
+
+          **2011**
+
+          *   《中国大学生广告学院奖》平面类入围奖
+
+          **2012**
+
+          *   《 2014 南京青奥会文化体育图标设计》三等奖
+
+          **2013**
+
+          *   2013《中国大学生广告学院奖》策划案金奖
+
+        styles:
+          self:
+            textAlign: left
+    columns: 2
+    spacingX: 60
+    spacingY: 60
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        textAlign: left
+  - type: FeaturedItemsSection
     subtitle: '简历预览下载专区:'
     colors: colors-f
     items:
@@ -317,44 +355,6 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: '教育经历:'
-        text: |+
-          **内蒙古师范大学  国际现代设计艺术学院 （2010-2014）**
-
-          *   艺术设计（视觉传达设计）
-
-          **2011**
-
-          *   《中国大学生广告学院奖》平面类入围奖
-
-          **2012**
-
-          *   《 2014 南京青奥会文化体育图标设计》三等奖
-
-          **2013**
-
-          *   2013《中国大学生广告学院奖》策划案金奖
-
-        styles:
-          self:
-            textAlign: left
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: DividerSection
     styles:
       self:
