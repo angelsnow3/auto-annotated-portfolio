@@ -289,7 +289,7 @@ sections:
         actions:
           - type: Link
             label: UX交互设计师
-            url: 'https://twitter.com/'
+            url: ''
         styles:
           self:
             textAlign: left
