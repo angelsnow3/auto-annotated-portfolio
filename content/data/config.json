@@ -79,7 +79,7 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
+                "label": "Boss",
                 "url": "https://github.com/netlify-templates",
                 "altText": "Netlify templates"
             }
