@@ -322,7 +322,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 品牌设计负责人
+            label: 设计师_作品集
             url: ''
         styles:
           self:
