@@ -22,7 +22,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: /Users/qiuxue/mine/design/作品集网站/作品集/3D交互动效作品集.mp4
+  url: 'https://vimeo.com/1067226683/d296c52d15'
   elementId: ''
   autoplay: false
   loop: false
