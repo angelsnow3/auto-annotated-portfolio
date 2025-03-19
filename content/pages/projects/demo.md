@@ -30,6 +30,5 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
-链接: https\://pan.baidu.com/s/1DcPlRveGEOoPT0-j2cyq2w 提取码: 63ud 复制这段内容后打开百度网盘手机App，操作更方便哦
-\--来自百度网盘超级会员v6的分享
+##### 如3D/交互动效作品集视频未正常播放，可点击 ****[**跳转播放视频**](https://h4z1gaho8k.feishu.cn/file/Zv8DbiEYioczpsxKTLrcrCOFnic?from=from_copylink)****
 
