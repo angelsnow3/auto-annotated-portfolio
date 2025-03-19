@@ -22,8 +22,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: >-
-    https://pan.baidu.com/share/streaming?channel=chunlei&uk=2047878240&fid=1001007629301720&sign=075220ad6cda6e15cf3dab2d67004545a953b68f&timestamp=1742359372&shareid=34372519024&type=M3U8_AUTO_1080&vip=2&jsToken=4F9DB404EF2F5E2331D76A6DB3A299A42C66087538E69B8BD3BEFF09167A37A625C9783D42E18E696A6EA6BF3077AA1C&isplayer=1&check_blue=1&adToken=
+  url: 'https://v.youku.com/video?vid=XNjQ2MjUzMTg3Ng%3D%3D'
   elementId: ''
   autoplay: false
   loop: false
