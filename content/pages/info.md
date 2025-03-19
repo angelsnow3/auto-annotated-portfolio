@@ -322,7 +322,7 @@ sections:
         actions:
           - type: Link
             label: 品牌设计负责人
-            url: 'https://www.instagram.com/'
+            url: ''
         styles:
           self:
             textAlign: left
