@@ -280,7 +280,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: UI界面设计师
+            label: 全链路用户体验设计_简历
             url: >-
               https://h4z1gaho8k.feishu.cn/file/ZqP9bV8BooDwGKxR2moc3vvznKe?from=from_copylink
         styles:
