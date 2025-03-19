@@ -33,8 +33,7 @@ bottomSections: []
 ---
 <div style="text-align: center">##### 如3D/交互动效作品集视频未正常播放，可点击 [**跳转播放视频**](https://h4z1gaho8k.feishu.cn/file/Zv8DbiEYioczpsxKTLrcrCOFnic?from=from_copylink)</div>
 
-<div style="text-align: center">`本视频将3D动、静态剪辑在一个视频内，交互动效，加载动画，3D建模视觉元素设计，3D产品外观设计`
-```
+<div style="text-align: center">`本视频将3D动、静态剪辑在一个视频内，交互动效，加载动画，3D建模视觉元素设计，3D产品外观设计````````
 下面是一些展台设计预设效果图，用于和设计搭建方沟通想法与创意
 ```</div>
 
