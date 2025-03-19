@@ -342,24 +342,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        subtitle: '荣誉:'
-        text: |+
-          **2015-2018**
-
-          *   宣誓时十三号
-
-          **2014**
-
-          *   react certificate somewhere
-
-          **2011**
-
-          *   my highschool
-
-        styles:
-          self:
-            textAlign: left
     columns: 2
     spacingX: 60
     spacingY: 60
