@@ -297,7 +297,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 全链路体验设计师
+            label: 设计负责人_简历
             url: ''
         styles:
           self:
