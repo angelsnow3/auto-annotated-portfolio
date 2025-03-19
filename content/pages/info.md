@@ -281,7 +281,7 @@ sections:
         actions:
           - type: Link
             label: UI界面设计师
-            url: 'https://github.com/'
+            url: ''
         styles:
           self:
             textAlign: left
