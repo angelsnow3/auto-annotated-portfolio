@@ -22,7 +22,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://vimeo.com/1067226683/d296c52d15?ts=0&share=copy'
+  url: 'https://vimeo.com/1067226683/d296c52d15?share=copy'
   elementId: ''
   autoplay: false
   loop: false
