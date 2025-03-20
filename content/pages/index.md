@@ -38,10 +38,7 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: 查看所有作品集
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
@@ -51,6 +48,7 @@ sections:
       - content/pages/projects/project.md
       - content/pages/projects/project-three.md
       - content/pages/projects/demo.md
+      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -76,6 +74,10 @@ sections:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/post-five.md
+      - content/pages/blog/post-one.md
+      - content/pages/blog/post-seven.md
+      - content/pages/blog/post-two.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
