@@ -78,7 +78,7 @@ sections:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
-    showDate: true
+    showDate: false
     showExcerpt: true
     showReadMoreLink: true
     styles:
