@@ -10,16 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "简历",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "项目经历",
-                "url": "/blog"
-            },
-            {
-                "type": "Link",
                 "label": "Learn more",
                 "altText": "",
                 "url": "iszh.space",
@@ -27,6 +17,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "简历",
+                "url": "/info"
+            },
+            {
+                "type": "Link",
+                "label": "项目经历",
+                "url": "/blog"
             }
         ],
         "socialLinks": [
