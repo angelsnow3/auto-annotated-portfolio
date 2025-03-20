@@ -72,7 +72,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "15011073260",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "angelsnow3@163.com",
             "emailAltText": "My email",
