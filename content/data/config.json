@@ -15,11 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "作品集",
-                "url": "iszh.space/"
-            },
-            {
-                "type": "Link",
                 "label": "项目经历",
                 "url": "/blog"
             },
