@@ -10,6 +10,16 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "首页",
+                "altText": "",
+                "url": "iszh.space",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "简历",
                 "url": "/info"
             },
