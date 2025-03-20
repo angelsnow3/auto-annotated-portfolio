@@ -15,23 +15,8 @@
             },
             {
                 "type": "Link",
-                "label": "作品集",
-                "url": "iszh.space/"
-            },
-            {
-                "type": "Link",
                 "label": "项目经历",
                 "url": "/blog"
-            },
-            {
-                "type": "Link",
-                "label": "下载专区",
-                "altText": "",
-                "url": "/download",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [
@@ -87,11 +72,11 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "15011073260",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "angelsnow3@163.com",
             "emailAltText": "My email",
-            "address": "Beijing, haidian",
+            "address": "",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by xiaonianzhibei\n",
