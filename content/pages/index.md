@@ -38,10 +38,7 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: 查看所有作品集
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
