@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "首页",
                 "altText": "",
-                "url": "iszh.space",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
